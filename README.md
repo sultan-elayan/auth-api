@@ -10,7 +10,7 @@
 
 - repo action -->> [repo action](https://github.com/sultan-elayan/auth-api/actions)
 - PR -->> [PR](https://github.com/sultan-elayan/auth-api/pull/1)
-
+- heroku -->> [heroku deployment](https://sultan-auth-api.herokuapp.com/) 
 
 ## MUL
 
